@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Stephan Shemilt",
+      "title": "Bethell and Overton in England first Test squad",
+      "description": "England recall Jacob Bethell for the first Test against India and respond to a lengthy pace-bowling injury list by naming Jamie Overton in the squad.",
+      "url": "https://www.bbc.com/sport/cricket/articles/c4gk7j6jz47o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1fc8/live/dbcc1610-4180-11f0-b6e6-4ddb91039da1.png",
+      "publishedAt": "2025-06-05T08:30:06Z",
+      "content": "England were hopeful Atkinson would be available for the beginning of the India series, while Archer's long route back to Test cricket has been delayed by a thumb injury that prevented him playing fo… [+1113 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Women's ODI Cricket",
+      "description": "Highlights from Grace Road in Leicester as England women take on the West Indies in the second of a three-match one-day international series.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002d4yf/womens-odi-cricket-2025-highlights-england-v-west-indies-second-odi",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0ld28dg.jpg",
+      "publishedAt": "2025-06-04T22:05:46Z",
+      "content": "Highlights from Grace Road in Leicester as England women take on the West Indies in the second of a three-match one-day international series."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "BBC Sport",
+      "title": "Stirling hits milestone as Ireland beat West Indies",
+      "description": "Paul Stirling becomes the first Irish player to reach 10,000 career runs in ODI, T20 and Test matches combined as Ireland beat West Indies in their opening ODI at Clontarf.",
+      "url": "https://www.bbc.com/sport/cricket/articles/ckg44j06lz4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f3a6/live/80cc3af0-365a-11f0-920c-1b4eb3cd37cf.jpg",
+      "publishedAt": "2025-05-21T17:08:16Z",
+      "content": "Paul Stirling became the first Irish player to reach 10,000 international runs as Ireland comfortably beat West Indies in the opening one-day international at Clontarf.\r\nA 109-run partnership between… [+490 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "Glenn Maxwell retires from ODI cricket but T20 World Cup in his sights",
+      "description": "Maxwell, known as one of the game's most powerful hitters, is calling time on his one-day career with Australia.",
+      "url": "https://www.aljazeera.com/sports/2025/6/2/glenn-maxwell-retires-from-odi-cricket-but-t20-world-cup-in-his-sights",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/GettyImages-2185064352-1748852707.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-06-02T08:58:06Z",
+      "content": "Explosive Australian batsman Glenn Maxwell has announced his retirement from one-day cricket, but will continue in Twenty20 cricket with his eye on next years World Cup.\r\nThe 36-year-old, who played … [+2818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Tristan Lavalette, Contributor, \n Tristan Lavalette, Contributor\n https://www.forbes.com/sites/tristanlavalette/",
+      "title": "Rising American Cricketer Sanjay Krishnamurthi Set To Be Homegrown Hero For San Francisco",
+      "description": "Talented all-rounder Sanjay Krishnamurthi enters the Major League Cricket season in form after impressing for the U.S. as he blossoms into an American cricket star.",
+      "url": "https://www.forbes.com/sites/tristanlavalette/2025/06/12/rising-american-cricketer-sanjay-krishnamurthi-set-to-be-homegrown-hero-for-san-francisco/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6846758d10d89463f26f24c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-12T05:47:42Z",
+      "content": "San Francisco Unicorns batter Sanjay Krishnamurthi is an American cricketer on the rise. \r\nSupplied\r\nThree years ago, Sanjay Krishnamurthi was high in the terraces of the iconic Coliseum amid a rabid… [+6992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Tristan Lavalette, Contributor, \n Tristan Lavalette, Contributor\n https://www.forbes.com/sites/tristanlavalette/",
+      "title": "UAE To Host Cricket’s Asia Cup, But India-Pakistan Tensions Jeopardize Lucrative Event",
+      "description": "The lucrative Asia Cup is set to be played in the United Arab Emirates with officials remaining hopeful a cancellation can be avoided amid India and Pakistan tension.",
+      "url": "https://www.forbes.com/sites/tristanlavalette/2025/06/15/uae-to-host-crickets-asia-cup-but-india-pakistan-tensions-jeopardize-lucrative-event/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/684f4247e6b24ec76a72a5e5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-06-16T01:54:17Z",
+      "content": "India and Pakistan have a storied rivalry (Photo by Surjeet Yadav/Getty Images)\r\nGetty Images\r\nThis years Asia Cup, a highly lucrative biennial event that essentially bankrolls regional body Asian Cr… [+3297 chars]"
+    }
+    ]
+}
