@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Project Details
+
+It is a news application project, where there are all types of news are available, divided into different categories, by clicking which you can access the news under differnt categories. When one will click on a news card he/she will be redirected to the actual news article in a seperate tab. To pull the news external api is used here.
+
+### Homepage
+
+![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst1.png)
+
+### Technology News
+
+![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst4.png)
+![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst5.png)
+
+### Entertainment News
+
+![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst2.png)
+
+### Sports News
+
+![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst3.png)
+
+
+# External API used
+
+from the website newsapi.org
