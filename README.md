@@ -81,7 +81,7 @@ It is a news application project, where there are all types of news are availabl
 ### Technology News
 
 ![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst4.png)
-![image alt](https://github.com/saptarshi-62/NewsTour/blob/0496d9fc4a9a21488c3b459e879a67b1d74350f0/images/newst5.png)
+![image alt](https://github.com/saptarshi-62/NewsTour/blob/89f0d2ec987e6fc7ef065258f3cc37be1d15a15f/images/newst5.png)
 
 ### Entertainment News
 
